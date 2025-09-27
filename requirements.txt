@@ -1,0 +1,25 @@
+# Core dependencies
+openai==0.27.8
+python-dotenv==1.0.0
+ipython==8.12.0
+jupyter==1.0.0
+notebook==6.5.4
+
+# For the chatbot notebook (7-chatbot.ipynb)
+panel==1.2.1
+param==1.13.0
+jupyter-bokeh==3.0.7
+bokeh==2.4.3
+
+# For the transforming notebook (5-transforming.ipynb)
+redlines==0.4.2
+
+# Additional useful packages
+numpy==1.24.3
+pandas==1.5.3
+matplotlib==3.7.1
+requests==2.31.0
+
+# Jupyter extensions
+ipywidgets==8.0.7
+widgetsnbextension==4.0.8
